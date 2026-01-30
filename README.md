@@ -1,9 +1,9 @@
 <h1 align="center">
   <div class="typewriter">
-    <span class="typewriter-text">📊 Data Scientist & ML Engineer</span>
+    <span class="typewriter-text">📊 Data Analyst ,Data Scientist & ML Engineer</span>
   </div>
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=80&lines=Hello+I'm+Alex+Chen;Data+Science+Specialist;Machine+Learning+Engineer;NLP+%26+Computer+Vision;Open+to+Collaborate!%F0%9F%9A%80" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=80&lines=Hello+I'm+Alex+Chen;Data+Analyst;Data+Science+Specialist;Machine+Learning+Engineer;NLP+%26+Computer+Vision;Open+to+Collaborate!%F0%9F%9A%80" alt="Typing SVG">
   </p>
 </h1>
 
