@@ -3,24 +3,24 @@
     <span class="typewriter-text">📊 Data Analyst ,Data Scientist & ML Engineer</span>
   </div>
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=80&lines=Hello+I'm+Alex+Chen;Data+Analyst;Data+Science+Specialist;Machine+Learning+Engineer;NLP+%26+Computer+Vision;Open+to+Collaborate!%F0%9F%9A%80" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=80&lines=Hello+I'm+Sinchana+G;Data+Analyst;Data+Science+Specialist;Machine+Learning+Engineer;NLP+%26+Computer+Vision;Open+to+Collaborate!%F0%9F%9A%80" alt="Typing SVG">
   </p>
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexchen-ds/" target="_blank">
+  <a href="https://www.linkedin.com/in/sinchana-g-94a67b232/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/alexchen-ds" target="_blank">
+  <a href="https://github.com/sinchanapnn-lgtm/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.kaggle.com/alexchen" target="_blank">
+  <a href="https://www.kaggle.com/vinusinchu" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
   <a href="https://medium.com/@alexchen" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="mailto:alex.chen.ds@gmail.com" target="_blank">
+  <a href="sinchanapnn@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
