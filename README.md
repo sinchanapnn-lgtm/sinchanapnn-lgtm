@@ -35,7 +35,7 @@
 ## 🌟 Featured Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexchen-ds&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github.com/sinchanapnn-lgtm/-trophy.vercel.app/?username=sinchana-ds&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
 
 ---
