@@ -1,20 +1,33 @@
-# Hi 👋 I'm Sinchana G  
+<div align="center">
 
-🎓 BE Computer Science Graduate (2025)  
-📊 Aspiring Data Analyst | Python | SQL | Power BI  
+<img src="https://avatars.githubusercontent.com/u/your-user-id?v=4" width="140" style="border-radius:50%" />
+
+<h2>Hi 👋 I'm Sinchana G</h2>
+
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0A66C2&center=true&vCenter=true&width=500&lines=BE+Computer+Science+Graduate+2025;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI" />
+
 📍 Mysore, India  
+🎓 BE CSE | Fresher | Actively seeking opportunities  
 
-I am a motivated fresher with hands-on experience in data analysis, Python, SQL, and dashboard creation. I enjoy working with data to extract meaningful insights and build simple, effective solutions.
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+I am a motivated Computer Science graduate with hands-on experience in **data analysis, Python, SQL, and Power BI**.  
+I enjoy working with data to generate insights and build simple, reliable solutions that support decision-making.
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Programming:** Python (Basics)
-- **Libraries:** NumPy, Pandas, Matplotlib
-- **Databases:** SQL (CRUD, Joins, Aggregations, Normalization)
-- **Data Visualization:** Power BI
-- **Tools:** Excel, GitHub
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
+</p>
 
 ---
 
@@ -22,57 +35,48 @@ I am a motivated fresher with hands-on experience in data analysis, Python, SQL,
 
 ### 📌 Training
 - **Data Processing & Business Analyst** – Anudip Foundation  
-- **Python with Data Science** – PySpiders (Ongoing)
+- **Python with Data Science** – PySpiders *(Ongoing)*  
 
 ### 📌 Internship
 **Survey Data Collection & Analysis Intern**  
 *Linqway Techniks Pvt. Ltd. (Feb – May 2025)*  
-- Collected and cleaned survey data  
-- Assisted in data analysis and reporting  
-- Supported decision-making using structured data insights  
+- Data collection and cleaning  
+- Basic data analysis and reporting  
+- Supported business insights through structured data  
 
 ---
 
-## 🔬 Projects
+## 📂 Projects
 
 ### 📊 Blinkit Sales Analysis Dashboard (Power BI)
-**Description:**  
-Built an interactive Power BI dashboard to analyze Blinkit sales performance and outlet trends.
-
-**Key Highlights:**
-- Cleaned and transformed raw data using Excel & Power Query  
-- Created KPIs for total sales, average sales, and item categories  
-- Identified Tier 3 outlets and grocery stores as top revenue contributors  
-
-🔗 *Power BI Project Repository*
-
----
+- Interactive dashboard for sales and outlet analysis  
+- Data cleaning using Excel & Power Query  
+- KPI creation and trend analysis  
 
 ### 🌱 AI-Based Cotton Plant Disease Prediction
-**Description:**  
-Developed an AI-based mobile application to detect cotton leaf diseases using CNN.
-
-**Key Highlights:**
-- Dataset preprocessing and image augmentation  
-- CNN model training and evaluation  
-- Integrated model into a simple mobile interface for predictions  
-
-🔗 *Python / AI Project Repository*
+- CNN-based image classification  
+- Dataset preprocessing and augmentation  
+- Integrated into a simple mobile app interface  
 
 ---
 
-## 📜 Certifications
+## 📈 GitHub Stats
 
-- Google Data Analytics – Coursera (2025)  
-- Tata GenAI Powered Data Analytics – Forage (2025)  
-- Infosys Springboard – Pragati Cohort 2 (2024)  
-- Data Analysis using Python – IBM (2023)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sinchanapnn-lgtm&show_icons=true&theme=default&hide_border=true" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: sinchanapnn@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/sinchana-g-94a67b232  
+<p align="center">
+  <a href="mailto:sinchanapnn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sinchana-g-94a67b232">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-⭐ I am actively looking for fresher opportunities and internships in Data Analysis / Software roles.
+⭐ *Open to fresher roles and internships in Data Analysis / Software roles*
