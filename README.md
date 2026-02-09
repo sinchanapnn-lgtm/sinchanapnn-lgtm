@@ -86,7 +86,7 @@
   
   <!-- GitHub Stats Cards -->
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=alexchen-ds&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&border_radius=10" alt="GitHub Stats" height="180"/>
+    <img src="https://github.com/sinchanapnn-lgtm/sinchanapnn-lgtm/edit/main/README.md -readme-stats.vercel.app/api?username=SINCHANA G-ds&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&border_radius=10" alt="GitHub Stats" height="180"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexchen-ds&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" height="180"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexchen-ds&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_radius=10" alt="Top Languages" height="180"/>
   </div>
