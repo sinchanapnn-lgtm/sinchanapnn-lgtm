@@ -1,106 +1,107 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=20B2AA&center=true&vCenter=true&width=600&lines=Hi+I'm+Sinchana+G;BE+Computer+Science+Graduate+2025;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Open+to+Fresher+Opportunities" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sinchana+G;BE+Computer+Science+Graduate+%7C+2025;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sinchana-g-94a67b232/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/sinchanapnn-lgtm" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:sinchanapnn@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.kaggle.com/vinusinchu" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kaggle-Data_Practice-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 Professional Summary
 
-🎓 BE Computer Science graduate (2025) from ATME College of Engineering, Mysore.  
-📊 Interested in **Data Analysis, Python, SQL, and Business Intelligence**.  
-🚀 Currently seeking **fresher roles / internships** in Data Analyst or Software-related roles.
+I am a **BE Computer Science graduate (2025)** from **ATME College of Engineering, Mysore**, with hands-on experience in **data analysis, Python, SQL, and business intelligence tools**.  
+
+I have completed structured training and an industry internship, and I am actively seeking **fresher-level roles or internships** in **Data Analysis, Business Analytics, or Software-related domains**.
 
 ---
 
-## 🛠️ Data Analytics Toolkit
+## 🛠️ Technical Skills
 
-### 🐍 Languages & Libraries
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
+### Programming & Data Handling
+- Python (Basics)
+- SQL (CRUD operations, joins, aggregations, normalization)
+- Pandas, NumPy
 
-### 📈 Visualization & BI
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
-</p>
+### Data Visualization & BI
+- Power BI (Dashboards, KPIs, slicers)
+- Excel (Pivot tables, data cleaning)
+- Matplotlib
 
-### ☁️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</p>
+### Tools & Platforms
+- Jupyter Notebook
+- Streamlit (basic)
+- GitHub
+- Kaggle
 
 ---
 
 ## 🎓 Training & Internship
 
-- **Data Processing & Business Analyst** – Anudip Foundation  
-- **Python with Data Science** – PySpiders *(Ongoing)*  
-- **Survey Data Collection & Analysis Intern** – Linqway Techniks Pvt. Ltd.
+### Training
+- **Data Processing and Business Analyst** – *Anudip Foundation*  
+- **Python with Data Science** – *PySpiders* (Ongoing)
+
+### Internship
+**Survey Data Collection and Analysis Intern**  
+*Linqway Techniks Pvt. Ltd. (Feb – May 2025)*  
+- Collected and cleaned survey data  
+- Assisted in data analysis and reporting  
+- Supported business decision-making using structured datasets  
 
 ---
 
-## 🔬 Featured Projects
+## 📂 Projects (From My GitHub)
 
-<details>
-  <summary><b>📊 Blinkit Sales Analysis Dashboard (Power BI)</b></summary>
-  <br>
-  <ul>
-    <li>Cleaned and transformed sales data using Excel & Power Query.</li>
-    <li>Built KPIs for total sales, outlet size, and item categories.</li>
-    <li>Identified Tier 3 outlets as major revenue contributors.</li>
-  </ul>
-  <p align="center">
-    <a href="https://github.com/sinchanapnn-lgtm/blinkit-sales-analysis">
-      🔗 View Project Repository
-    </a>
-  </p>
-</details>
+### 📊 Blinkit Sales Analysis Dashboard
+🔗 Repository: https://github.com/sinchanapnn-lgtm/blinkit-sales-analysis  
 
-<details>
-  <summary><b>🌱 Cotton Plant Disease Prediction (CNN)</b></summary>
-  <br>
-  <ul>
-    <li>Built a CNN-based image classification model.</li>
-    <li>Performed dataset preprocessing and augmentation.</li>
-    <li>Integrated model into a simple mobile app interface.</li>
-  </ul>
-  <p align="center">
-    <a href="https://github.com/sinchanapnn-lgtm/cotton-disease-prediction">
-      🔗 View Project Repository
-    </a>
-  </p>
-</details>
+**Description:**  
+Developed an interactive Power BI dashboard to analyze Blinkit’s sales performance and outlet trends.
+
+**Key Contributions:**
+- Data cleaning and transformation using Excel and Power Query  
+- KPI creation for total sales, average sales, and outlet performance  
+- Identified Tier 3 outlets and grocery stores as major revenue contributors  
 
 ---
 
-## 📊 GitHub Stats
+### 🌱 AI-Based Cotton Plant Disease Prediction
+🔗 Repository: https://github.com/sinchanapnn-lgtm/cotton-disease-prediction  
 
-<div align="center">
+**Description:**  
+Built an AI-based mobile application to detect cotton leaf diseases using a CNN model.
+
+**Key Contributions:**
+- Image preprocessing, augmentation, and dataset cleaning  
+- CNN model training and performance evaluation  
+- Integration of trained model into a simple mobile application  
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sinchanapnn-lgtm&show_icons=true&hide_border=true" />
-</div>
+</p>
 
 ---
 
-⭐ *Actively looking for fresher opportunities in Data Analysis & Software roles*
+## 📌 Career Objective
+
+To start my professional journey as a **Data Analyst / Software Trainee**, where I can apply my analytical skills, continuously learn new technologies, and contribute to data-driven decision-making.
+
+---
+
+⭐ *Open to fresher opportunities, internships, and entry-level roles*
