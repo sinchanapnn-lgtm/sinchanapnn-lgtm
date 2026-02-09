@@ -55,36 +55,73 @@
 </p>
 
 ---
-
 ## 📂 Projects
 
-### 📊 Data-Science-Job  
-🔗 https://github.com/sinchanapnn-lgtm/Data-Science-Job  
-- Python-based data handling and analysis  
-- Trend and pattern identification  
-- Core data science workflow practice  
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Data-Science-Job</h3>
+      <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="100%" />
+      <br><br>
+      <b>Tech:</b> Python, Pandas, NumPy  
+      <br>
+      <b>Highlights:</b>
+      <ul>
+        <li>Worked on real-world datasets</li>
+        <li>Performed data cleaning & analysis</li>
+        <li>Extracted meaningful insights</li>
+      </ul>
+      🔗 <a href="https://github.com/sinchanapnn-lgtm/Data-Science-Job">View Repository</a>
+    </td>
 
----
+    <td width="50%" valign="top">
+      <h3>🍫 Chocolate Sales Analysis</h3>
+      <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%" />
+      <br><br>
+      <b>Tech:</b> Python, Pandas, Matplotlib  
+      <br>
+      <b>Highlights:</b>
+      <ul>
+        <li>Sales trend analysis</li>
+        <li>Handled raw & missing data</li>
+        <li>Business-driven insights</li>
+      </ul>
+      🔗 <a href="https://github.com/sinchanapnn-lgtm/chocolate-sales">View Repository</a>
+    </td>
+  </tr>
 
-### 🍫 Chocolate Sales Analysis  
-🔗 https://github.com/sinchanapnn-lgtm/chocolate-sales  
-- Sales analysis using Python  
-- Data cleaning and preprocessing  
-- Business insights from sales data  
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧪 Academic Project</h3>
+      <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+      <br><br>
+      <b>Tech:</b> Python  
+      <br>
+      <b>Highlights:</b>
+      <ul>
+        <li>Academic Python experiments</li>
+        <li>Hands-on coding practice</li>
+        <li>Logic building</li>
+      </ul>
+      🔗 <a href="https://github.com/sinchanapnn-lgtm/project">View Repository</a>
+    </td>
 
----
-
-### 🧪 Academic Project  
-🔗 https://github.com/sinchanapnn-lgtm/project  
-- Academic Python experiments  
-- Practice-based learning repository  
-
----
-
-### 📘 Sinchana (Practice Repo)  
-🔗 https://github.com/sinchanapnn-lgtm/Sinchana  
-- Learning & practice repository  
-- Strengthened Python fundamentals  
+    <td width="50%" valign="top">
+      <h3>📘 Sinchana – Practice Repo</h3>
+      <img src="https://media.giphy.com/media/5kq0GCjHA8Rwc/giphy.gif" width="100%" />
+      <br><br>
+      <b>Tech:</b> Python  
+      <br>
+      <b>Highlights:</b>
+      <ul>
+        <li>Python fundamentals</li>
+        <li>Practice programs</li>
+        <li>Continuous learning</li>
+      </ul>
+      🔗 <a href="https://github.com/sinchanapnn-lgtm/Sinchana">View Repository</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
