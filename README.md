@@ -57,71 +57,42 @@
 ---
 ## 📂 Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 Data-Science-Job</h3>
-      <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="100%" />
-      <br><br>
-      <b>Tech:</b> Python, Pandas, NumPy  
-      <br>
-      <b>Highlights:</b>
-      <ul>
-        <li>Worked on real-world datasets</li>
-        <li>Performed data cleaning & analysis</li>
-        <li>Extracted meaningful insights</li>
-      </ul>
-      🔗 <a href="https://github.com/sinchanapnn-lgtm/Data-Science-Job">View Repository</a>
-    </td>
+### 📊 Data Science Job Analysis
+**Tech:** Python, Pandas, NumPy  
+- Performed data cleaning and exploratory analysis  
+- Identified trends and insights from real-world datasets  
+- Strengthened data handling and visualization skills  
 
-    <td width="50%" valign="top">
-      <h3>🍫 Chocolate Sales Analysis</h3>
-      <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%" />
-      <br><br>
-      <b>Tech:</b> Python, Pandas, Matplotlib  
-      <br>
-      <b>Highlights:</b>
-      <ul>
-        <li>Sales trend analysis</li>
-        <li>Handled raw & missing data</li>
-        <li>Business-driven insights</li>
-      </ul>
-      🔗 <a href="https://github.com/sinchanapnn-lgtm/chocolate-sales">View Repository</a>
-    </td>
-  </tr>
+🔗 GitHub: https://github.com/sinchanapnn-lgtm/Data-Science-Job  
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧪 Academic Project</h3>
-      <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
-      <br><br>
-      <b>Tech:</b> Python  
-      <br>
-      <b>Highlights:</b>
-      <ul>
-        <li>Academic Python experiments</li>
-        <li>Hands-on coding practice</li>
-        <li>Logic building</li>
-      </ul>
-      🔗 <a href="https://github.com/sinchanapnn-lgtm/project">View Repository</a>
-    </td>
+---
 
-    <td width="50%" valign="top">
-      <h3>📘 Sinchana – Practice Repo</h3>
-      <img src="https://media.giphy.com/media/5kq0GCjHA8Rwc/giphy.gif" width="100%" />
-      <br><br>
-      <b>Tech:</b> Python  
-      <br>
-      <b>Highlights:</b>
-      <ul>
-        <li>Python fundamentals</li>
-        <li>Practice programs</li>
-        <li>Continuous learning</li>
-      </ul>
-      🔗 <a href="https://github.com/sinchanapnn-lgtm/Sinchana">View Repository</a>
-    </td>
-  </tr>
-</table>
+### 🍫 Chocolate Sales Analysis
+**Tech:** Python, Pandas, Matplotlib  
+- Analyzed sales performance and seasonal trends  
+- Handled missing values and raw business data  
+- Generated insights to support decision-making  
+
+🔗 GitHub: https://github.com/sinchanapnn-lgtm/chocolate-sales  
+
+---
+
+### 🧪 Academic Python Project
+**Tech:** Python  
+- Implemented academic-level Python programs  
+- Focused on logic building and problem-solving  
+
+🔗 GitHub: https://github.com/sinchanapnn-lgtm/project  
+
+---
+
+### 📘 Python Practice Repository
+**Tech:** Python  
+- Practice programs covering Python fundamentals  
+- Continuous learning and hands-on coding  
+
+🔗 GitHub: https://github.com/sinchanapnn-lgtm/Sinchana
+
 
 ---
 
