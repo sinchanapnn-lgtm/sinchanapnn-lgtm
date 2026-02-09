@@ -4,16 +4,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sinchana-g-94a67b232/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/sinchanapnn-lgtm" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-171515?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:sinchanapnn@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.kaggle.com/vinusinchu" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Data_Practice-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
 
@@ -21,27 +21,26 @@
 
 ## 👩‍💻 Professional Summary
 
-I am a **BE Computer Science graduate (2025)** from **ATME College of Engineering, Mysore**, with hands-on experience in **data analysis, Python, SQL, and business intelligence tools**.  
+I am a **BE Computer Science graduate (2025)** from **ATME College of Engineering, Mysore**, with practical exposure to **Python, SQL, data analysis, and business intelligence tools**.  
 
-I have completed structured training and an industry internship, and I am actively seeking **fresher-level roles or internships** in **Data Analysis, Business Analytics, or Software-related domains**.
+I have completed structured training and an industry internship and am currently seeking **fresher-level opportunities** in **Data Analysis, Business Analytics, or Software-related roles**.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming & Data Handling
+**Programming & Data**
 - Python (Basics)
-- SQL (CRUD operations, joins, aggregations, normalization)
+- SQL (CRUD, joins, aggregations, normalization)
 - Pandas, NumPy
 
-### Data Visualization & BI
-- Power BI (Dashboards, KPIs, slicers)
+**Data Visualization & BI**
+- Power BI (Dashboards, KPIs)
 - Excel (Pivot tables, data cleaning)
 - Matplotlib
 
-### Tools & Platforms
+**Tools & Platforms**
 - Jupyter Notebook
-- Streamlit (basic)
 - GitHub
 - Kaggle
 
@@ -49,44 +48,48 @@ I have completed structured training and an industry internship, and I am active
 
 ## 🎓 Training & Internship
 
-### Training
-- **Data Processing and Business Analyst** – *Anudip Foundation*  
-- **Python with Data Science** – *PySpiders* (Ongoing)
+**Training**
+- Data Processing and Business Analyst – *Anudip Foundation*
+- Python with Data Science – *PySpiders* (Ongoing)
 
-### Internship
-**Survey Data Collection and Analysis Intern**  
-*Linqway Techniks Pvt. Ltd. (Feb – May 2025)*  
-- Collected and cleaned survey data  
-- Assisted in data analysis and reporting  
-- Supported business decision-making using structured datasets  
+**Internship**
+- Survey Data Collection & Analysis Intern – *Linqway Techniks Pvt. Ltd.*
 
 ---
 
-## 📂 Projects (From My GitHub)
+## 📂 Projects
 
-### 📊 Blinkit Sales Analysis Dashboard
-🔗 Repository: https://github.com/sinchanapnn-lgtm/blinkit-sales-analysis  
+### 📊 Data-Science-Job
+🔗 https://github.com/sinchanapnn-lgtm/Data-Science-Job  
 
-**Description:**  
-Developed an interactive Power BI dashboard to analyze Blinkit’s sales performance and outlet trends.
-
-**Key Contributions:**
-- Data cleaning and transformation using Excel and Power Query  
-- KPI creation for total sales, average sales, and outlet performance  
-- Identified Tier 3 outlets and grocery stores as major revenue contributors  
+- Python-based project focused on data handling and analysis  
+- Worked with datasets to understand trends and patterns  
+- Practiced core data science workflow concepts  
 
 ---
 
-### 🌱 AI-Based Cotton Plant Disease Prediction
-🔗 Repository: https://github.com/sinchanapnn-lgtm/cotton-disease-prediction  
+### 🍫 Chocolate Sales Analysis
+🔗 https://github.com/sinchanapnn-lgtm/chocolate-sales  
 
-**Description:**  
-Built an AI-based mobile application to detect cotton leaf diseases using a CNN model.
+- Performed sales data analysis using Python  
+- Cleaned and processed raw data  
+- Derived insights related to sales performance  
 
-**Key Contributions:**
-- Image preprocessing, augmentation, and dataset cleaning  
-- CNN model training and performance evaluation  
-- Integration of trained model into a simple mobile application  
+---
+
+### 🧪 Project
+🔗 https://github.com/sinchanapnn-lgtm/project  
+
+- Academic project repository  
+- Includes Python-based experiments and practice work  
+
+---
+
+### 📁 Sinchana
+🔗 https://github.com/sinchanapnn-lgtm/Sinchana  
+
+- General repository containing learning and practice files  
+- Used for strengthening Python and data fundamentals  
 
 ---
 
@@ -98,10 +101,8 @@ Built an AI-based mobile application to detect cotton leaf diseases using a CNN 
 
 ---
 
-## 📌 Career Objective
+## 🎯 Career Objective
 
-To start my professional journey as a **Data Analyst / Software Trainee**, where I can apply my analytical skills, continuously learn new technologies, and contribute to data-driven decision-making.
+To begin my career as a **Data Analyst / Software Trainee**, where I can apply my analytical skills, learn industry best practices, and contribute to data-driven decision-making.
 
----
-
-⭐ *Open to fresher opportunities, internships, and entry-level roles*
+⭐ *Open to fresher roles, internships, and entry-level opportunities*
