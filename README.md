@@ -1,6 +1,7 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Sinchana+G;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Open+to+Fresher+Roles+%26+Internships" />
+  <img src="https://readme-typing-svg.herokuapp.com?
+   size=26&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Sinchana+G;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Open+to+Fresher+Roles+%26+Internships" />
 </p>
 
 <p align="center">
