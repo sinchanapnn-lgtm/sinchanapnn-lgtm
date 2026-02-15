@@ -106,7 +106,7 @@
 ## 💼 Freelancer Profile
 
 <p align="center">
-  <a href="https://www.freelancer.com/u/vinusinchu">
+  <a href="https://www.upwork.com/freelancers/~017fef81291ccf4d57">
     <img src="https://img.shields.io/badge/Freelancer-Profile-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white"/>
   </a>
 </p>
