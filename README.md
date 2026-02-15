@@ -48,13 +48,6 @@
 
 ---
 
-## 🎞️ Project Highlights (Slideshow Style)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="600"/>
-</p>
-
----
 ## 📂 Projects
 
 ### 📊 Data Science Job Analysis
@@ -77,33 +70,23 @@
 
 ---
 
-### 🧪 Academic Python Project
-**Tech:** Python  
-- Implemented academic-level Python programs  
-- Focused on logic building and problem-solving  
+### 📊 BlinkIt Sales
+**Tech:** Power BI  
+- Implemented Training programs  
+- Analyzed sales performance and seasonal trends  
+- Handled missing values and raw business data  
+- Generated insights to support decision-making 
 
 🔗 GitHub: https://github.com/sinchanapnn-lgtm/project  
 
----
-
-### 📘 Python Practice Repository
-**Tech:** Python  
-- Practice programs covering Python fundamentals  
-- Continuous learning and hands-on coding  
-
-🔗 GitHub: https://github.com/sinchanapnn-lgtm/Sinchana
-
 
 ---
 
-## 📊 GitHub Stats (Animated)
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinchanapnn-lgtm&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinchanapnn-lgtm&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sinchanapnn-lgtm&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
