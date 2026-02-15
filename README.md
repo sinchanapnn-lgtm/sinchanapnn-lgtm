@@ -1,7 +1,6 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?
-   size=26&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Sinchana+G;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Open+to+Fresher+Roles+%26+Internships" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Sinchana+G;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Open+to+Fresher+Roles+%26+Internships" />
 </p>
 
 <p align="center">
@@ -55,7 +54,6 @@
 **Tech:** Python, Pandas, NumPy  
 - Performed data cleaning and exploratory analysis  
 - Identified trends and insights from real-world datasets  
-- Strengthened data handling and visualization skills  
 
 🔗 GitHub: https://github.com/sinchanapnn-lgtm/Data-Science-Job  
 
@@ -64,25 +62,20 @@
 ### 🍫 Chocolate Sales Analysis
 **Tech:** Python, Pandas, Matplotlib  
 - Analyzed sales performance and seasonal trends  
-- Handled missing values and raw business data  
 - Generated insights to support decision-making  
 
 🔗 GitHub: https://github.com/sinchanapnn-lgtm/chocolate-sales  
 
 ---
 
-### 📊 BlinkIt Sales
+### 🛒 BlinkIt Sales Analysis
 **Tech:** Power BI  
-- Implemented Training programs  
-- Analyzed sales performance and seasonal trends  
-- Handled missing values and raw business data  
-- Generated insights to support decision-making 
+- Built interactive dashboards  
+- Analyzed sales KPIs and trends  
 
 🔗 GitHub: https://github.com/sinchanapnn-lgtm/project  
 
-
 ---
-
 
 ## 📊 GitHub Stats
 
@@ -92,10 +85,10 @@
 
 ---
 
-## 🔄 GitHub Activity Graph (Fixed)
+## 🔄 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinchanapnn-lgtm&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinchanapnn-lgtm&theme=tokyo-night"/>
 </p>
 
 ---
@@ -110,9 +103,28 @@
 
 ---
 
+## 💼 Freelancer Profile
+
+<p align="center">
+  <a href="https://www.freelancer.com/u/vinusinchu">
+    <img src="https://img.shields.io/badge/Freelancer-Profile-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white"/>
+  </a>
+</p>
+
+### 🧑‍💻 Services I Offer
+- 📊 Data Analysis & Reporting  
+- 📈 Power BI Dashboards  
+- 🐍 Python Data Cleaning & EDA  
+- 🧮 SQL Queries & Analysis  
+- 📑 Excel Reports & Automation  
+
+⭐ Available for freelance & remote projects on **:contentReference[oaicite:0]{index=0}**
+
+---
+
 ## 🎯 Career Objective
 
-To begin my career as a **Data Analyst / Software Trainee**, where I can apply analytical skills, learn industry practices, and contribute to data-driven decisions.
+To begin my career as a **Data Analyst / Software Trainee**, where I can apply analytical skills and contribute to data-driven decisions.
 
 ⭐ **Open to fresher roles, internships & entry-level opportunities**
 
