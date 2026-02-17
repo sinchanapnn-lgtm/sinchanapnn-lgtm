@@ -19,7 +19,7 @@
 ## 👩‍💻 About Me
 
 🎓 **BE – Computer Science Engineering (2025)**  
-📊 **Aspiring Data Analyst / Software Trainee**  
+📊 **Aspiring Data Analyst / Data Science**  
 💡 Passionate about data analysis, visualization, and continuous learning  
 
 I enjoy working with real-world datasets, cleaning data, finding insights, and building dashboards that support decision-making.
@@ -94,9 +94,7 @@ I enjoy working with real-world datasets, cleaning data, finding insights, and b
     <img src="https://img.shields.io/badge/Upwork-Profile-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.freelancer.com/u/vinusinchu">
-    <img src="https://img.shields.io/badge/Freelancer-Profile-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white"/>
-  </a>
+ 
 </p>
 
 ### 🧑‍💻 Services I Offer
