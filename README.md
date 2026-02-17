@@ -1,135 +1,119 @@
-<!-- PROFILE HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Sinchana+G;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Open+to+Fresher+Roles+%26+Internships" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Sinchana G | Data Analyst Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656971-9a6c3fbc-0e32-45f3-b5e4-6d2f2a1f3c1c.gif" width="300"/>
-</p>
+  <!-- NAVBAR -->
+  <nav>
+    <h2>Sinchana G</h2>
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#skills">Skills</a></li>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
 
----
+  <!-- HOME -->
+  <section id="home" class="hero">
+    <div class="avatar">SG</div>
+    <h1>Sinchana G</h1>
+    <p>Aspiring Data Analyst | Data Scientist | Freelancer</p>
+    <a href="#projects" class="btn">View Projects</a>
+  </section>
 
-## 👩‍💻 About Me
+  <!-- ABOUT -->
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      I am a fresher actively seeking Data Analyst and Data Scientist roles.
+      I enjoy working with data, finding insights, and creating dashboards
+      that support better decision-making.
+    </p>
+    <p><strong>Education:</strong><br>
+      Bachelor’s of Engineering – ATME College of Engineering (2025)
+    </p>
+  </section>
 
-🎓 BE – Computer Science Engineering  
-📊 Aspiring **Data Analyst / Software Trainee**  
-💡 Passionate about data, analysis, and continuous learning  
+  <!-- SKILLS -->
+  <section id="skills">
+    <h2>Skills</h2>
+    <div class="grid">
+      <span>Excel</span>
+      <span>SQL</span>
+      <span>Python</span>
+      <span>Power BI</span>
+      <span>Data Analysis</span>
+      <span>Data Cleaning</span>
+      <span>Machine Learning</span>
+    </div>
+  </section>
 
----
+  <!-- SERVICES -->
+  <section id="services">
+    <h2>Services</h2>
+    <div class="cards">
+      <div class="card">📊 Data Analysis</div>
+      <div class="card">🧹 Data Cleaning</div>
+      <div class="card">📈 Power BI Dashboards</div>
+      <div class="card">🔍 Exploratory Data Analysis</div>
+      <div class="card">📑 Excel Reporting</div>
+      <div class="card">🤖 Basic Machine Learning</div>
+    </div>
+  </section>
 
-## 🛠️ Technical Skills
+  <!-- PROJECTS -->
+  <section id="projects">
+    <h2>Projects</h2>
 
-### 👨‍💻 Programming & Analysis
-- Python (Pandas, NumPy)
-- SQL (CRUD, Joins, Aggregates)
-- Data Cleaning & Processing
+    <div class="project">
+      <h3>🛒 BlinkIt Sales Analysis</h3>
+      <p>Power BI dashboard analyzing sales KPIs and trends.</p>
+      <a href="https://github.com/sinchanapnn-lgtm/project" target="_blank">View on GitHub</a>
+    </div>
 
-### 📊 Visualization & Tools
-- Power BI (Dashboards, KPIs)
-- Excel (Pivot Tables, Cleaning)
-- Matplotlib
+    <div class="project">
+      <h3>🍫 Chocolate Sales Analysis</h3>
+      <p>Python-based analysis of sales performance and seasonality.</p>
+      <a href="https://github.com/sinchanapnn-lgtm/chocolate-sales" target="_blank">View on GitHub</a>
+    </div>
 
-### ⚙️ Platforms
-- Jupyter Notebook  
-- GitHub  
-- Kaggle  
+    <div class="project">
+      <h3>📊 Data Science Job Analysis</h3>
+      <p>EDA and insights from real-world data science job datasets.</p>
+      <a href="https://github.com/sinchanapnn-lgtm/Data-Science-Job" target="_blank">View on GitHub</a>
+    </div>
+  </section>
 
----
+  <!-- CONTACT -->
+  <section id="contact">
+    <h2>Contact Me</h2>
 
-## 🎓 Training & Internship
+    <!-- IMPORTANT: Replace action link with your Formspree link -->
+    <form action="https://formspree.io/f/xxxxabcd" method="POST">
+      <input type="text" name="name" placeholder="Your Name" required />
+      <input type="email" name="email" placeholder="Your Email" required />
+      <textarea name="message" placeholder="Your Message" required></textarea>
+      <button type="submit">Send Message</button>
+    </form>
 
-### 📘 Training
-- **Data Processing & Business Analyst** – *Anudip Foundation*
-- **Python with Data Science** – *PySpiders* (Ongoing)
+    <p>Email: sinchanapnn@gmail.com</p>
+    <p>
+      <a href="https://www.linkedin.com/in/sinchana-g-94a67b232/" target="_blank">LinkedIn</a> |
+      <a href="https://github.com/sinchanapnn-lgtm" target="_blank">GitHub</a>
+    </p>
+  </section>
 
-### 🏢 Internship
-- **Survey Data Collection & Analysis Intern**  
-  *Linqway Techniks Pvt. Ltd.*
+  <footer>
+    © 2026 Sinchana G
+  </footer>
 
----
-
-## 📂 Projects
-
-### 📊 Data Science Job Analysis
-**Tech:** Python, Pandas, NumPy  
-- Performed data cleaning and exploratory analysis  
-- Identified trends and insights from real-world datasets  
-
-🔗 GitHub: https://github.com/sinchanapnn-lgtm/Data-Science-Job  
-
----
-
-### 🍫 Chocolate Sales Analysis
-**Tech:** Python, Pandas, Matplotlib  
-- Analyzed sales performance and seasonal trends  
-- Generated insights to support decision-making  
-
-🔗 GitHub: https://github.com/sinchanapnn-lgtm/chocolate-sales  
-
----
-
-### 🛒 BlinkIt Sales Analysis
-**Tech:** Power BI  
-- Built interactive dashboards  
-- Analyzed sales KPIs and trends  
-
-🔗 GitHub: https://github.com/sinchanapnn-lgtm/project  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinchanapnn-lgtm&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔄 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinchanapnn-lgtm&theme=tokyo-night"/>
-</p>
-
----
-
-## 🧠 Kaggle Profile
-
-<p align="center">
-  <a href="https://www.kaggle.com/vinusinchu">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 💼 Freelancer Profile
-
-<p align="center">
-  <a href="https://www.upwork.com/freelancers/~017fef81291ccf4d57">
-    <img src="https://img.shields.io/badge/Freelancer-Profile-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white"/>
-  </a>
-</p>
-
-### 🧑‍💻 Services I Offer
-- 📊 Data Analysis & Reporting  
-- 📈 Power BI Dashboards  
-- 🐍 Python Data Cleaning & EDA  
-- 🧮 SQL Queries & Analysis  
-- 📑 Excel Reports & Automation  
-
-⭐ Available for freelance & remote projects on **:contentReference[oaicite:0]{index=0}**
-
----
-
-## 🎯 Career Objective
-
-To begin my career as a **Data Analyst / Software Trainee**, where I can apply analytical skills and contribute to data-driven decisions.
-
-⭐ **Open to fresher roles, internships & entry-level opportunities**
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E90FF&height=100&section=footer"/>
-</p>
+</body>
+</html>
