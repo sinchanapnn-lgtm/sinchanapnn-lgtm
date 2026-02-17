@@ -1,13 +1,18 @@
-<!-- PROFILE HEADER -->
+<!-- ================= PROFILE PHOTO ================= -->
 <p align="center">
-  <!-- Replace the image link below with your own photo -->
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/profile.jpg" 
-       width="160" 
-       style="border-radius:50%;" />
+  <img src="https://raw.githubusercontent.com/sinchanapnn-lgtm/sinchanapnn-lgtm/main/profile.jpg"
+       width="160"
+       height="160"
+       style="border-radius:50%; object-fit:cover;" />
+</p>
+
+<!-- ================= ANIMATED HEADER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A3D91,100:3B82F6&height=120&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Sinchana+G;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Open+to+Fresher+Roles+%26+Internships" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+I'm+Sinchana+G;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Open+to+Fresher+Roles+%26+Freelancing" />
 </p>
 
 <p align="center">
@@ -19,32 +24,56 @@
 ## 👩‍💻 About Me
 
 🎓 **BE – Computer Science Engineering (2025)**  
-📊 **Aspiring Data Analyst / Data Science**  
-💡 Passionate about data analysis, visualization, and continuous learning  
+📊 **Aspiring Data Analyst / Data Science Fresher**  
+💡 Passionate about data analysis, visualization & insights  
 
-I enjoy working with real-world datasets, cleaning data, finding insights, and building dashboards that support decision-making.
+I enjoy working with real-world datasets, cleaning data, identifying patterns, and building dashboards that support data-driven decision making.
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A3D91,100:3B82F6&height=4"/>
+</p>
 
 ## 🛠️ Technical Skills
 
 ### 👨‍💻 Programming & Analysis
 - Python (Pandas, NumPy)
-- SQL (CRUD, Joins, Aggregates)
+- SQL (CRUD, Joins, Aggregations)
 - Data Cleaning & Processing
 - Exploratory Data Analysis (EDA)
 
 ### 📊 Visualization & Tools
 - Power BI (Dashboards, KPIs)
-- Excel (Pivot Tables, Cleaning, Reporting)
+- Excel (Pivot Tables, Reports)
 - Matplotlib
 
 ### ⚙️ Platforms
-- Google collab
-- GitHub  
-- Kaggle  
+- Google Colab
+- GitHub
+- Kaggle
 
 ---
+
+### 🚀 Skill Proficiency (Animated)
+
+**Python**
+![Python](https://progress-bar.dev/80/?width=420&color=1E90FF&suffix=%)
+
+**SQL**
+![SQL](https://progress-bar.dev/75/?width=420&color=2563EB&suffix=%)
+
+**Power BI**
+![Power BI](https://progress-bar.dev/85/?width=420&color=0A3D91&suffix=%)
+
+**Excel**
+![Excel](https://progress-bar.dev/90/?width=420&color=3B82F6&suffix=%)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A3D91,100:3B82F6&height=4"/>
+</p>
 
 ## 🎓 Training & Internship
 
@@ -63,18 +92,18 @@ I enjoy working with real-world datasets, cleaning data, finding insights, and b
 ### 📊 Data Science Job Analysis
 **Tech:** Python, Pandas, NumPy  
 - Cleaned and analyzed job market datasets  
-- Identified trends in skills, salary, and roles  
+- Identified trends in skills, salary & roles  
 
-🔗 GitHub: https://github.com/sinchanapnn-lgtm/Data-Science-Job  
+🔗 https://github.com/sinchanapnn-lgtm/Data-Science-Job  
 
 ---
 
 ### 🍫 Chocolate Sales Analysis
 **Tech:** Python, Pandas, Matplotlib  
-- Analyzed sales performance and seasonality  
+- Analyzed sales performance & seasonality  
 - Generated insights for business decisions  
 
-🔗 GitHub: https://github.com/sinchanapnn-lgtm/chocolate-sales  
+🔗 https://github.com/sinchanapnn-lgtm/chocolate-sales  
 
 ---
 
@@ -83,9 +112,13 @@ I enjoy working with real-world datasets, cleaning data, finding insights, and b
 - Built interactive dashboards  
 - Analyzed sales KPIs and trends  
 
-🔗 GitHub: https://github.com/sinchanapnn-lgtm/project  
+🔗 https://github.com/sinchanapnn-lgtm/project  
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A3D91,100:3B82F6&height=4"/>
+</p>
 
 ## 💼 Freelance Profiles
 
@@ -94,12 +127,18 @@ I enjoy working with real-world datasets, cleaning data, finding insights, and b
     <img src="https://img.shields.io/badge/Upwork-Profile-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
- 
+  <a href="https://www.freelancer.com/u/vinusinchu">
+    <img src="https://img.shields.io/badge/Freelancer-Profile-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2000&pause=600&color=1E90FF&center=true&vCenter=true&width=650&lines=📊+Data+Analysis+%7C+📈+Power+BI+Dashboards;🐍+Python+EDA+%7C+🧮+SQL+Analysis;📑+Excel+Reports+%7C+Freelancing+Available" />
 </p>
 
 ### 🧑‍💻 Services I Offer
 - 📊 Data Analysis & Reporting  
-- 📈 Power BI Dashboards  
+- 📈 Power BI Interactive Dashboards  
 - 🐍 Python Data Cleaning & EDA  
 - 🧮 SQL Queries & Analysis  
 - 📑 Excel Reports & Automation  
@@ -136,9 +175,9 @@ I enjoy working with real-world datasets, cleaning data, finding insights, and b
 
 ## 🎯 Career Objective
 
-To begin my career as a **Data Analyst / Software Trainee**, where I can apply analytical skills and contribute to data-driven decision-making.
+To begin my career as a **Data Analyst / Software Trainee**, where I can apply analytical skills and contribute to impactful, data-driven solutions.
 
-⭐ *Open to fresher roles, internships & entry-level opportunities*
+⭐ *Open to fresher roles, internships & freelance opportunities*
 
 ---
 
