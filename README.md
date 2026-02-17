@@ -1,10 +1,7 @@
 <!-- ================= PROFILE PHOTO ================= -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sinchanapnn-lgtm/sinchanapnn-lgtm/main/profile.jpg"  
-       width="160"
-       height="160"
-       style="border-radius:50%; object-fit:cover;" />
+  <img src="profile.jpg" width="160" />
 </p>
 
 <!-- ================= ANIMATED HEADER ================= -->
