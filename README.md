@@ -1,6 +1,10 @@
 <!-- ================= PROFILE PHOTO ================= -->
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Sinchana+G;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Open+to+Fresher+Roles+%26+Internships" />
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216656971-9a6c3fbc-0e32-45f3-b5e4-6d2f2a1f3c1c.gif" width="300"/>
 </p>
 
