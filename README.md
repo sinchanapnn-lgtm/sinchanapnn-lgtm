@@ -1,10 +1,5 @@
 <!-- ================= PROFILE PHOTO ================= -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sinchanapnn-lgtm/sinchanapnn-lgtm/main/profile.jpg"  
-       width="160"
-       height="160"
-       style="border-radius:50%; object-fit:cover;" />
-</p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216656971-9a6c3fbc-0e32-45f3-b5e4-6d2f2a1f3c1c.gif" width="300"/>
 </p>
