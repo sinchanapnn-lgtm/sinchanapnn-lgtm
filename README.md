@@ -117,3 +117,107 @@
 
 </body>
 </html>
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f5f9ff;
+  color: #222;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 40px;
+  background: #0a3d91;
+  color: white;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+.hero {
+  text-align: center;
+  padding: 80px 20px;
+  background: linear-gradient(135deg, #0a3d91, #3b82f6);
+  color: white;
+}
+
+.avatar {
+  width: 90px;
+  height: 90px;
+  background: white;
+  color: #0a3d91;
+  border-radius: 50%;
+  font-size: 32px;
+  font-weight: bold;
+  line-height: 90px;
+  margin: auto;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: white;
+  color: #0a3d91;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+section {
+  padding: 50px 40px;
+}
+
+.grid span {
+  background: #e0ecff;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.grid, .cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 15px;
+}
+
+.card, .project {
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+form {
+  max-width: 400px;
+  margin: auto;
+}
+
+form input, form textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+button {
+  background: #0a3d91;
+  color: white;
+  border: none;
+  padding: 10px;
+  width: 100%;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background: #0a3d91;
+  color: white;
+}
